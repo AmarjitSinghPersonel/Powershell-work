@@ -1,0 +1,1 @@
+﻿Start-Process -Wait -FilePath "C:\Users\AmarjitSingh\Downloads\setupEP.exe" -ArgumentList '/qn' 

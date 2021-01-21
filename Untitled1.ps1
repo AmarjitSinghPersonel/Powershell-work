@@ -1,0 +1,1 @@
+﻿Install-PackageProvider  'PowerShellGet' -Verbose
